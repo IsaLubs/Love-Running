@@ -1,0 +1,7 @@
+{
+    "editor.wordWrap": "on",
+    "workspace.preserveWindow": true,
+    "auto-close-tag.SublimeText3Mode": true,
+    "git.alwaysSignOff": true,
+    "java.debug.settings.hotCodeReplace": "auto"
+}
